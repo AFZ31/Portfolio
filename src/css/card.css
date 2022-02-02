@@ -25,7 +25,6 @@
 }
 
 #person-picture {
-    background-size: cover;
     position: absolute;
     border-radius: 50%;
     width: 100px;
