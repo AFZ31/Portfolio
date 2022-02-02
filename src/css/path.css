@@ -9,13 +9,21 @@
     width: 100%;
     width: calc(100% - 20px);
     margin-left: 20px;
-    background: #ecf0f1;
+    /*background: #ecf0f1;*/
     margin-bottom: 20px;
     border-radius: 10px;
     border-top-left-radius: 0;
     text-align: left;
     padding: 10px;
     box-sizing: border-box;
+}
+
+.step-1 {
+    background: #dce6e9;
+}
+
+.step-2 {
+    background: #d5ebf6;
 }
 
 .step::before {
